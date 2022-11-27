@@ -1,1 +1,1 @@
-https://raw.githubusercontent.com/8pmx8/rektsky4roblox/main/mainscript.lua
+loadstring(game:HttpGet('https://raw.githubusercontent.com/8pmx8/rektsky4roblox/main/mainscript.lua'))()
